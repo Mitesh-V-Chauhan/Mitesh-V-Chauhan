@@ -31,7 +31,7 @@ I build fast, validate hard, and shut down things that don't work. Currently obs
 </div>
 
 <div align="center">
-  <a href="https://github.com/Mitesh-V-Chauhan/finpilot-ai">
+  <a href="https://github.com/Mitesh-V-Chauhan/algofest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=finpilot-ai&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Mitesh-V-Chauhan/ai-architecture-generator">
@@ -47,7 +47,7 @@ I build fast, validate hard, and shut down things that don't work. Currently obs
 **[stgit](https://github.com/Mitesh-V-Chauhan/stgit)** — Built a Git-like CLI and a full GitHub-style web interface from scratch. Wanted to understand how Git actually works at depth — so I built one.
 `Python` `TypeScript` `React` `FastAPI` `Docker`
 
-**[FinPilot AI](https://github.com/Mitesh-V-Chauhan/finpilot-ai)** — Enterprise LLM app that processes financial queries through a reactive state machine. Multi-step reasoning, dynamic tool calls, real-time streaming.
+**[FinPilot AI](https://github.com/Mitesh-V-Chauhan/algofest)** — Enterprise LLM app that processes financial queries through a reactive state machine. Multi-step reasoning, dynamic tool calls, real-time streaming.
 `LangGraph` `FastAPI` `React` `TypeScript`
 
 **[AI Architecture Generator](https://github.com/Mitesh-V-Chauhan/ai-architecture-generator)** — Plain English in. Boilerplate code, DB schemas, and architecture diagrams out.
