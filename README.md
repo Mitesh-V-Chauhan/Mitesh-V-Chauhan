@@ -1,6 +1,6 @@
 # Hey, I'm Mitesh 👋
 
-I'm a first-year CS-adjacent student at **IIT Gandhinagar** who builds things that probably shouldn't exist yet — AI coding agents, custom version control systems, and LLM-powered tools. I started with zero CS background (B.Tech Chemical Engineering, technically), got obsessed, and haven't stopped shipping since.
+I'm a second-year CS-adjacent student at **IIT Gandhinagar** who builds things that probably shouldn't exist yet — AI coding agents, custom version control systems, and LLM-powered tools. I started with zero CS background (B.Tech Chemical Engineering, technically), got obsessed, and haven't stopped shipping since.
 
 I don't just do tutorials. I build, validate, kill what doesn't work, and move fast.
 
