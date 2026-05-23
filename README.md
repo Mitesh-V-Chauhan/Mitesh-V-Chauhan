@@ -32,7 +32,7 @@ I build fast, validate hard, and shut down things that don't work. Currently obs
 
 <div align="center">
   <a href="https://github.com/Mitesh-V-Chauhan/algofest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=finpilot-ai&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=algofest&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Mitesh-V-Chauhan/ai-architecture-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=ai-architecture-generator&theme=tokyonight&hide_border=true" />
