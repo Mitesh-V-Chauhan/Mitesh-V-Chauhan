@@ -1,75 +1,97 @@
-# Hey, I'm Mitesh 👋
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mitesh+%F0%9F%91%8B;3rd+Year+%40+IIT+Gandhinagar;Building+AI+Agents+%26+Dev+Tools;Open+to+Remote+%26+Freelance+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-I'm a second-year CS-adjacent student at **IIT Gandhinagar** who builds things that probably shouldn't exist yet — AI coding agents, custom version control systems, and LLM-powered tools. I started with zero CS background (B.Tech Chemical Engineering, technically), got obsessed, and haven't stopped shipping since.
+<!-- BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mitesh-V-Chauhan&style=flat-square&color=6E40C9" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/mitesh-chauhan-9a079631a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:miteshvchauhan984@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" alt="Open to Work" />
+</div>
 
-I don't just do tutorials. I build, validate, kill what doesn't work, and move fast.
+<br/>
+
+Chemical Engineering at IIT Gandhinagar. Technically not a CS major. Practically, I've built an AI coding agent, a version control system from scratch, and a financial LLM app — while most people were doing tutorials.
+
+I build fast, validate hard, and shut down things that don't work. Currently obsessed with AI agent tooling and developer infrastructure.
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Projects
 
-### [Blink](https://github.com/Mitesh-V-Chauhan/blink) — AI App Generator
-An autonomous AI coding agent that generates full application codebases from a single prompt. Uses **E2B Sandboxes** for isolated, safe code execution and live preview. Think: you describe an app, Blink writes and runs it.
+<div align="center">
+  <a href="https://github.com/Mitesh-V-Chauhan/blink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=blink&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mitesh-V-Chauhan/stgit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=stgit&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/Mitesh-V-Chauhan/finpilot-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=finpilot-ai&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mitesh-V-Chauhan/ai-architecture-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mitesh-V-Chauhan&repo=ai-architecture-generator&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+**[Blink](https://github.com/Mitesh-V-Chauhan/blink)** — You describe an app. Blink writes and runs it. Autonomous AI coding agent using E2B Sandboxes for isolated, live code execution.
 `Next.js` `TypeScript` `LangGraph` `E2B` `FastAPI`
 
----
-
-### [stgit](https://github.com/Mitesh-V-Chauhan/stgit) — Version Control Platform Built from Scratch
-An enterprise-grade version control system with a custom Git-like CLI tool and a full GitHub-inspired web interface. Built because I wanted to deeply understand how Git actually works — so I built one.
-
+**[stgit](https://github.com/Mitesh-V-Chauhan/stgit)** — Built a Git-like CLI and a full GitHub-style web interface from scratch. Wanted to understand how Git actually works at depth — so I built one.
 `Python` `TypeScript` `React` `FastAPI` `Docker`
 
----
-
-### [FinPilot AI](https://github.com/Mitesh-V-Chauhan/finpilot-ai) — Enterprise LLM for Finance
-Processes complex financial queries through a **reactive state machine**. Executes multi-step reasoning, dynamic tool calls, and streams its cognitive process in real-time to the client.
-
+**[FinPilot AI](https://github.com/Mitesh-V-Chauhan/finpilot-ai)** — Enterprise LLM app that processes financial queries through a reactive state machine. Multi-step reasoning, dynamic tool calls, real-time streaming.
 `LangGraph` `FastAPI` `React` `TypeScript`
 
----
-
-### [AI Architecture Generator](https://github.com/Mitesh-V-Chauhan/ai-architecture-generator) — Instant System Design
-Takes a plain-English description of a system and generates boilerplate code, database schemas, and architecture diagrams automatically. Built to scratch my own itch — validated fast, shipped fast.
-
+**[AI Architecture Generator](https://github.com/Mitesh-V-Chauhan/ai-architecture-generator)** — Plain English in. Boilerplate code, DB schemas, and architecture diagrams out.
 `Python` `LangChain` `React` `Prisma` `Supabase`
 
 ---
 
-## 🏆 Highlight
+## 🛠️ Stack
 
-**2nd Prize — CodeEd Hackathon (Nationwide)**
-Competed as a 2-person team against teams of 4–5. Pitched directly to **Ronnie Screwvala** (Shark Tank India). My first ever hackathon.
-
----
-
-## 🛠️ Tech Stack
-
-| Area | Tools |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · C/C++ · SQL |
-| **Frontend** | React · Next.js · HTML/CSS |
-| **Backend** | FastAPI · Prisma · REST |
-| **AI / LLM** | LangChain · LangGraph · OpenAI APIs |
-| **Databases** | Supabase · Firebase · PostgreSQL |
-| **DevOps** | Docker · E2B Sandboxes · Vercel · Render |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,docker,supabase,firebase,vercel&theme=dark" />
+</div>
 
 ---
 
-## 📌 Currently Working On
+## 📊 Stats
 
-Building in public. Focused on **AI agent tooling** and **developer infrastructure** — the kind of stuff that makes other builders faster. If you're working in this space, I want to talk.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitesh-V-Chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-V-Chauhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+</div>
 
----
-
-## 📬 Let's Connect
-
-I'm open to **remote roles**, **freelance projects**, and **collabs** with people building serious things.
-
-- 📧 [miteshvchauhan984@gmail.com](mailto:miteshvchauhan984@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitesh-chauhan-9a079631a)
-- 🌐 Portfolio coming soon
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mitesh-V-Chauhan&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-*IIT Gandhinagar · Chemical Engineering on paper · Software in practice*
+## 🏆 One highlight worth mentioning
+
+**2nd Prize — CodeEd Hackathon (Nationwide).** Two people vs teams of 4–5. Pitched to Ronnie Screwvala. First hackathon I ever entered.
+
+---
+
+## 📬 Let's talk
+
+Open to **remote roles**, **freelance**, and collabs with people building real things.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mitesh-chauhan-9a079631a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:miteshvchauhan984@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
