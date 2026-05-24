@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mitesh+%F0%9F%91%8B;3rd+Year+%40+IIT+Gandhinagar;Building+AI+Agents+%26+Dev+Tools;Open+to+Remote+%26+Freelance+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
 <!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mitesh-V-Chauhan&style=flat-square&color=6E40C9" alt="Profile Views" />
