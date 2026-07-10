@@ -14,6 +14,46 @@
 
 <br/>
 
+<div align="center">
+<pre style="line-height: 0.9; font-size: 9px; color: #6E40C9;">
+                                  &gt;&gt;~]-vi(nit1[}~~_
+                               }+/c?XX?b?zq_CL|Zj?#~)!^^
+                            ;l&lt;u~Jn}0j-0lnC~vX[m|[p_Xu?{i
+                            j?zk1wU1kc[b1/q_C01oj1M[QL]Ou^_
+                          ~&lt;Z~vZ-Zn?dj}ZiXQlJz[k({k_CX~Lv-n
+                          ftb]zk{wU{kv[q_v0_Yv]Lt1w?uL]OC~|
+                          ffb?zk1wj}Jt+O1tZ)1,^)}lt?(X}0C&lt;v
+                          |(O-rZ}J11-__|.{( !i &gt;-I~![rfYv&gt;v
+                          n1b]zk+1{&lt;{] i:1&gt; &gt;l l:.n~_j_0vl
+                            d]zj/{t~j1?|l(|^?(]n_|q}|xl]v]
+                            a}Xvc}{n0jrd}fj;?(|Cj|Z?&lt;1l?|!
+                          t1q?zrn}rxv|1v(jcI|X_{t/C--{`jt._
+                          {i0~r[_;},?i^r&gt;}j `~.&gt;_:l:_}.?_`l
+                          ,^Q(?X{f}.j] ];_?  ^ |+iXI1+.)&lt;:;
+                            x1)vi|&lt;~j_`r(_J,(tIn__[:(|:[i
+                            :~[/1]{?f]:(]~X})t)X~`&lt;:)+.!;
+                             ^&gt;l!{tl11!k_)z_-/_j~l-:}[
+                                .&gt;|[)]lxiIl ~}^&lt;~~&gt;`I!
+                                !zj]zj{x_~n?jt:r[iti/1.
+                               ii0n(Zr?L?un`/|,0[]j-&gt;Yl
+                                &gt;Qc}mn-w_vQ+cv|d1+Y)vU!
+                               CjOX1pu[p_zZ|xC1kf{*[CC|v
+                            [?zk{wU1kc[b_Yq_C01oj1W[QQ]O?1t
+                         /nx*}UM(kL(#U1#?Ch-Zq|8n(${mm}qU&gt;onjc.
+                  ^.1}XL_wffb?zk{wU1kc[b_Yq_C01oj1M[QL]0J?Z}vkfjQ|u}{
+              /j_o)uQ}QJ_Zttp?vd1OX{pu[p_zZ_UC1kf{*[CJ]QU{cr(Cv/UnXx{qttf ,
+       i^c-uq1XX?k}nJ]Cz[Q||m||w}0v}mn?m~v0+YJ}dt}k-JY?Jz_Uj|w|{Q/n(_q/10~vU]X:.
+  l)(ivj&lt;J~cL?JJ_k{rC?UX!Q|(Z}{p?Lz?mn-Z+u0&lt;XJ]dt]h?XU+JX_U1[C11c{v)]Ct[O&lt;cL?Jj&gt;U
+  &gt;QX?bc[d_UZ}00[M)cZ1CL_wffb}fk1mU1kc[b_Yq_C01oj1W[QL]0C{Qj|CvtUnUn+Lj(q?vLtUU1M
+  iUn&lt;Qr~L+xJ?cU_w}tY}nz&lt;U|{Q]|Z]Xu]Cr~Q_jC~nU?O/-q-vz-cv]}j1Qr~x|f1-t(]z?-j)jf]w
+  ipX?bc[d_UZ}O0[M)cZ}0U?wftb(jk1wU1kc[b_Yq_C01oj1W[QL]0J}k1{jYtCjzj|ot-Y|xntYz(M
+  lwn?mr[ZiYJ]Cx]a}vC)Xu~0(tZ{jm]Ov[pr[m&lt;z0&gt;UY}k|{h-CX-Lc1||}01{XtUj?ut[C+)j)zU?q
+  IXt~U|+Xijv_un?Q?/u_vn_c}{Y~tU-cf_U|_Uifcixn?C{-0+nx+uj_J/(X{}n/f|+c?-X_)j[un}L
+</pre>
+</div>
+
+<br/>
+
 Studying Chemical Engineering at IIT Gandhinagar. Not writing this README to explain that away — writing it because the projects below speak for themselves.
 
 I don't build tutorial clones. I build the thing, benchmark it, and ship the number: an async memory service that gives AI agents long-term recall, a C++ route solver that does **31,000+ requests/sec**, a Git-inspired VCS built from raw bytes up — CLI, storage, dashboard, all of it.
