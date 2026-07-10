@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mitesh+%F0%9F%91%8B;Chemical+Engineer+by+degree%2C+Backend+Engineer+by+choice;I+build+AI+agents+%2B+infra+that+actually+ship;Open+to+Remote+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mitesh+%F0%9F%91%8B;I+ship+backend+%2B+AI+infra%2C+solo;Chemical+Engineering+on+paper%2C+not+in+practice;Building+in+public+%2F+DMs+open+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -14,11 +14,11 @@
 
 <br/>
 
-I study Chemical Engineering at IIT Gandhinagar. I build like a systems engineer.
+Studying Chemical Engineering at IIT Gandhinagar. Not writing this README to explain that away — writing it because the projects below speak for themselves.
 
-While most people were following tutorials, I was writing an async memory service that gives AI agents long-term recall, benchmarking a C++ route optimizer at **31,000+ requests/sec**, and building a Git-inspired version control platform from the bytes up — CLI, storage layer, and web dashboard included.
+I don't build tutorial clones. I build the thing, benchmark it, and ship the number: an async memory service that gives AI agents long-term recall, a C++ route solver that does **31,000+ requests/sec**, a Git-inspired VCS built from raw bytes up — CLI, storage, dashboard, all of it.
 
-I ship fast, measure everything, and kill what doesn't work.
+Bias toward shipping over planning. If it doesn't work in a week, I kill it and try the next thing.
 
 <br/>
 
@@ -105,6 +105,16 @@ An autonomous AI coding agent that generates *and executes* code live, in an iso
 
 <br/>
 
+## 🔨 Shipping Log
+
+What I'm building right now — updated as it happens, not after the fact.
+
+- [ ] **[Project name]** — one-line problem statement. *Status: scoping / building / shipped.*
+
+<sub>This section stays live. If it's empty, I'm between ships — ping me, I probably have an idea half-formed already.</sub>
+
+<br/>
+
 ## 🛠️ Stack
 
 <div align="center">
@@ -138,7 +148,7 @@ An autonomous AI coding agent that generates *and executes* code live, in an iso
 
 ## 📬 Let's talk
 
-Open to **remote internships**, **freelance work**, and collaborating with people building real things.
+Open to **remote internships** and building real things with people who move fast. If you're a founder and something above is relevant to what you're building — just email me, I'll respond same day.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mitesh-chauhan-9a079631a">
