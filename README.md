@@ -12,6 +12,8 @@
 
 </div>
 
+<br/>
+
 Studying Chemical Engineering at IIT Gandhinagar. Not writing this README to explain that away — writing it because the projects below speak for themselves.
 
 I don't build tutorial clones. I build the thing, benchmark it, and ship the number: an async memory service that gives AI agents long-term recall, a C++ route solver that does **31,000+ requests/sec**, a Git-inspired VCS built from raw bytes up — CLI, storage, dashboard, all of it.
