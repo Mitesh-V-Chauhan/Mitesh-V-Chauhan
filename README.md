@@ -130,7 +130,7 @@ What I'm building right now — updated as it happens, not after the fact.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mitesh-V-Chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-V-Chauhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-V-Chauhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 <div align="center">
