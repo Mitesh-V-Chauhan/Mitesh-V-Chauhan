@@ -24,8 +24,6 @@ Bias toward shipping over planning. If it doesn't work in a week, I kill it and 
 
 ## 🚀 Featured Work
 
-Each project below solves one real problem end-to-end — not a tutorial clone.
-
 <table>
 <tr>
 <td width="50%" valign="top">
