@@ -127,12 +127,12 @@ What I'm building right now — updated as it happens, not after the fact.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mitesh-V-Chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-V-Chauhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Mitesh-V-Chauhan&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br/>
