@@ -126,10 +126,10 @@ What I'm building right now — updated as it happens, not after the fact.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
 <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="./profile/streak.svg" alt="GitHub Streak" />
