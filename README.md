@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mitesh+%F0%9F%91%8B;I+ship+backend+%2B+AI+infra%2C+solo;Chemical+Engineering+on+paper%2C+not+in+practice;Building+in+public+%2F+DMs+open+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
