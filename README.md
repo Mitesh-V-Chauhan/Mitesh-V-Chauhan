@@ -64,7 +64,7 @@ More: [FinPilot AI](https://github.com/Mitesh-V-Chauhan/algofest) and [AI Archit
 
 ## Leadership
 
-**Secretary, Metis App/Web Development Club, IIT Gandhinagar.** Run React workshops and the club's induction hackathon.
+**Secretary, Metis App/Web Development Club, IIT Gandhinagar.** Run workshops, conducts events and hackathons.
 
 ## Contact
 
