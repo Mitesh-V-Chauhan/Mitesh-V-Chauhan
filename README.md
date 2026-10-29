@@ -1,159 +1,71 @@
-<!-- HEADER -->
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mitesh+%F0%9F%91%8B;I+ship+backend+%2B+AI+infra%2C+solo;Chemical+Engineering+on+paper%2C+not+in+practice;Building+in+public+%2F+DMs+open+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+# Mitesh Chauhan
 
-<img src="https://komarev.com/ghpvc/?username=Mitesh-V-Chauhan&style=flat-square&color=6E40C9" alt="Profile Views" />
-<a href="https://www.linkedin.com/in/mitesh-chauhan-9a079631a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:miteshvchauhan984@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
+**AI / Backend Engineer** · IIT Gandhinagar · Open to remote internships
+
+I build the systems behind AI products: retrieval pipelines, agents with real tools, and backends that hold up under load.
+
+[Portfolio](https://www.mitesh.tech) · [LinkedIn](https://www.linkedin.com/in/mitesh-chauhan-9a079631a) · [Email](mailto:miteshvchauhan984@gmail.com)
 
 </div>
 
-<br/>
+---
 
-Studying Chemical Engineering at IIT Gandhinagar. Not writing this README to explain that away — writing it because the projects below speak for themselves.
+## Looking for
 
-I don't build tutorial clones. I build the thing, benchmark it, and ship the number: an async memory service that gives AI agents long-term recall, a C++ route solver that does **31,000+ requests/sec**, a Git-inspired VCS built from raw bytes up — CLI, storage, dashboard, all of it.
+| | |
+|---|---|
+| **Roles** | AI / LLM engineering, retrieval and search, backend and infrastructure |
+| **Type** | Remote internships and part-time contract work |
+| **Background** | B.Tech Chemical Engineering with a minor in Computer Science, IIT Gandhinagar (third year) |
+| **Strongest at** | Python, C++, TypeScript, FastAPI, Qdrant, Neo4j, distributed-systems basics |
 
-Bias toward shipping over planning. If it doesn't work in a week, I kill it and try the next thing.
+## Highlights
 
-<br/>
+- **Top 1,000** on the public leaderboard of Amazon ML Challenge 2026 (F1 0.982).
+- Raised retrieval recall from **50.9% to 98.5%** across 24M+ multilingual records while pruning 99.9% of non-matching pairs.
+- **Merged contribution to SymPy**, a widely used open-source Python library.
+- **Runner-up** at the UpGrad CodeEd Hackathon (national finale, Mumbai), pitching to founder Ronnie Screwvala.
+- Full Stack Developer (freelance) built Onetapay premium : Razorpay and Firebase payments with PostgreSQL.
 
-## 🚀 Featured Work
+## Selected projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What it does | Evidence | Stack |
+|---|---|---|---|
+| [**Memory Layer**](https://github.com/Mitesh-V-Chauhan/memory-layer) | Long-term memory service for AI agents. Gemini extracts facts; function calling resolves conflicts into add, update or delete. | 14 async endpoints; hybrid vector + graph retrieval | FastAPI, Qdrant, Neo4j, PostgreSQL |
+| [**Velox**](https://github.com/Mitesh-V-Chauhan/velox) | Route-optimization engine: Dijkstra, A\*, TSP and VRP solvers in C++ exposed to Python. | 31,325 req/sec; 22 pytest + 19 CTest tests | C++17, pybind11, FastAPI, Next.js |
+| [**Blink**](https://github.com/Mitesh-V-Chauhan/blink) | Autonomous coding agent that writes, runs and fixes code in isolated sandboxes, then returns a live preview. | Self-healing build loop (up to 15 retries) | Next.js, TypeScript, E2B, Gemini, Inngest |
+| [**stgit**](https://github.com/Mitesh-V-Chauhan/stgit) | Git-inspired version control with a Python CLI and web dashboard. | Published on PyPI; token auth and private repos | Python, FastAPI, MongoDB, GCP, Next.js |
+| **Entity Resolution** | Matches 24M+ messy business records with multi-view retrieval and a pairwise classifier. | Recall 50.9% to 98.5%; F1 0.982 | Python, inverted indexes, streaming ETL |
+| **Distributed Rate Limiter** | Exact per-tenant quotas across 3 Node.js nodes using atomic Redis Lua scripts. | 25 tests, 9 load scenarios | Node.js, Redis, Nginx, Docker |
+| **Raft Key-Value Store** | Fault-tolerant store with leader election, WAL, snapshots and linearizable reads. | 24 tests including chaos scenarios | C++20, Raft, gRPC |
+| **Ahead-of-Time Compiler** | Compiles a custom language to x86-64 with its own parser, IR and optimisation passes. | 28 GoogleTest suites | C++20, x86-64 |
 
-### 🧠 [Memory Layer](https://github.com/Mitesh-V-Chauhan/memory-layer)
-**A long-term memory service for AI agents.**
+More: [FinPilot AI](https://github.com/Mitesh-V-Chauhan/algofest) and [AI Architecture Generator](https://github.com/Mitesh-V-Chauhan/ai-architecture-generator).
 
-Most agents forget everything between sessions — and vector search alone can't explain *why* it remembers something. Memory Layer fixes both.
+## Skills
 
-- 14 FastAPI endpoints; Gemini 2.5 Flash extracts structured facts from raw conversation
-- Gemini function-calling resolves `ADD` / `UPDATE` / `DELETE` — memory stays consistent, not just accumulated
-- Dual-mode retrieval: **Qdrant** (vector) + **Neo4j** (graph) for both similarity *and* relationships
-- Fully async — `asyncpg`, `AsyncQdrantClient`, `AsyncGraphDatabase` — nothing blocks the event loop
-
-`FastAPI` `Qdrant` `Neo4j` `PostgreSQL` `Vertex AI`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [Velox](https://github.com/Mitesh-V-Chauhan/velox)
-**A route-optimization engine in C++17.**
-
-Dijkstra, A\*, and TSP/VRP heuristic solvers — exposed to Python via `pybind11`, served through FastAPI, rendered on real OSRM road geometry.
-
-- **31,325 req/sec** — ~0.032 ms/request on a 100-node graph
-- 22 pytest API/integration tests + 19 CTest C++ unit tests
-- Next.js frontend for live route visualization
-
-`C++17` `pybind11` `FastAPI` `Next.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗃️ [stgit](https://github.com/Mitesh-V-Chauhan/stgit)
-**A Git-inspired VCS — built from scratch to understand Git at depth.**
-
-Custom Python CLI *and* a full GitHub-style web dashboard, not just a clone of `git log`.
-
-- Bearer-token auth (bcrypt) with private-repo access control
-- Commit snapshots stored as blobs on Google Cloud Storage
-- Async MongoDB schema for repos, users, and follower graphs
-- Packaged and published as an installable **PyPI** package
-
-`Next.js` `FastAPI` `MongoDB` `GCP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Blink](https://github.com/Mitesh-V-Chauhan/blink)
-**Describe an app. Blink writes and runs it.**
-
-An autonomous AI coding agent that generates *and executes* code live, in an isolated sandbox — not just a code generator that stops at the output.
-
-- LangGraph-orchestrated multi-step agent reasoning
-- E2B Sandboxes for isolated, real-time code execution
-- Streaming output from generation straight to a running app
-
-`Next.js` `TypeScript` `LangGraph` `E2B` `FastAPI`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More projects</b></summary>
-<br/>
-
-**[FinPilot AI](https://github.com/Mitesh-V-Chauhan/algofest)** — Enterprise LLM app for financial queries via a reactive state machine: multi-step reasoning, dynamic tool calls, real-time streaming.
-`LangGraph` `FastAPI` `React` `TypeScript`
-
-**[AI Architecture Generator](https://github.com/Mitesh-V-Chauhan/ai-architecture-generator)** — Plain English in → boilerplate code, DB schemas, and architecture diagrams out.
-`Python` `LangChain` `React` `Prisma` `Supabase`
-
-</details>
-
-<br/>
-
-## 🔨 Shipping Log
-
-What I'm building right now — updated as it happens, not after the fact.
-
-- [ ] **[Project name]** — one-line problem statement. *Status: scoping / building / shipped.*
-
-<sub>This section stays live. If it's empty, I'm between ships — ping me, I probably have an idea half-formed already.</sub>
-
-<br/>
-
-## 🛠️ Stack
+- **AI and retrieval:** LLM tool calling, RAG, GraphRAG, embeddings, Gemini, Vertex AI, LangGraph
+- **Languages:** Python, C++, TypeScript, JavaScript, SQL
+- **Backend:** FastAPI, Node.js, Express, gRPC, Redis, Nginx, REST APIs
+- **Data:** PostgreSQL, MongoDB, Qdrant, Neo4j, SQLite, Firebase
+- **Infra and tooling:** Docker, GitHub Actions, Inngest, Google Cloud Platform, Git
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,nextjs,fastapi,docker,gcp,supabase,firebase,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,fastapi,nodejs,docker,gcp,postgres,mongodb,redis&perline=13" />
 </div>
 
-**Databases:** SQL · MongoDB · PostgreSQL · Neo4j · Qdrant · Firebase · Supabase
-**Also:** gRPC · Inngest · pybind11
+## How I work
 
-<br/>
+- **Measure.** Performance and accuracy claims come with a number.
+- **Test the hard parts.** Concurrency, failure cases and edge cases get tests first.
+- **Document decisions.** Design trade-offs go in a README or DECISIONS.md.
 
-## 📊 GitHub Stats
+## Leadership
 
-<!-- <div align="center">
-<img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-</div> -->
+**Secretary, Metis App/Web Development Club, IIT Gandhinagar.** Run React workshops and the club's induction hackathon.
 
-<div align="center">
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-</div>
+## Contact
 
-<br/>
-
-## 🏆 Highlights
-
-- 🥈 **Runner-up, UpGrad CodeEd Hackathon** — advanced to the national finale in Mumbai; pitched the product to Ronnie Screwvala. Two-person team going up against groups of 4–5.
-- 🛠️ **Secretary, Metis App/Web Dev Club, IIT Gandhinagar** — run React.js workshops, coordinate the club's induction hackathon, and represent the club's project pipeline as a stakeholder for Summer Siege.
-
-<br/>
-
-## 📬 Let's talk
-
-Open to **remote internships** and building real things with people who move fast. If you're a founder and something above is relevant to what you're building — just email me, I'll respond same day.
-
-<div align="center">
-<a href="https://www.linkedin.com/in/mitesh-chauhan-9a079631a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:miteshvchauhan984@gmail.com">
-<img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+Email me at [miteshvchauhan984@gmail.com](mailto:miteshvchauhan984@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mitesh-chauhan-9a079631a). I reply the same day.
